@@ -1,0 +1,21 @@
+#contact iframe
+{
+    width: 100%;
+    background-color: lightgray;
+}
+.travel_mainDiv
+{
+    border: 1px solid black;
+    background-color: lightgray;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+    background-color: lightgray;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+    background-color: lightgray;
+}
+
